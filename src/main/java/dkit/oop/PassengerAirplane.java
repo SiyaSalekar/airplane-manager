@@ -16,6 +16,7 @@ public class PassengerAirplane  extends Airplane{
         this.namesList = new ArrayList<>();
     }
 
+
     @Override
 
     public String toString() {
